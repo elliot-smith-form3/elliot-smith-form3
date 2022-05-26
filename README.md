@@ -5,7 +5,7 @@ ___
 
 ###### About me 👨<br>
 
-I joined [Form3](https://www.form3.tech/payment-platform) in 2019 as employee number 61, and as the third member of our Talent Team. I'm now helping to lead Form3's engineering recruitment as we scale internationally. 
+Having joined [Form3](https://www.form3.tech/payment-platform) in 2019 as employee number 61, and as the third member of our Talent Team, I now lead Form3's engineering recruitment (with the help of my colleague and good friend [Alex](https://github.com/alexandra-forsberg-form3)) as we scale the team internationally across Europe, Canada and Argentina 🌍
 
 **Pronouns:** He/Him<br>
 **Personality:** [ISFJ-A](https://www.16personalities.com/isfj-personality)<br>
