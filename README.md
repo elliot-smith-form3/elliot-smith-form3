@@ -1,18 +1,21 @@
 ## Hi there - I'm Elliot 👋
 
 >TLDR; Talent Lead - Engineering at Form3, 84% introvert
-
-I joined [Form3](https://www.form3.tech/payment-platform) in 2019 as employee number 61, and as the third member of our Talent Team. I'm now helping to lead Form3's engineering recruitment as we scale internationally. 
 ___
 
 ###### About me 👨<br>
+
+I joined [Form3](https://www.form3.tech/payment-platform) in 2019 as employee number 61, and as the third member of our Talent Team. I'm now helping to lead Form3's engineering recruitment as we scale internationally. 
+
 **Pronouns:** He/Him<br>
 **Personality:** [ISFJ-A](https://www.16personalities.com/isfj-personality)<br>
 **Interests:** 👨‍👩‍👧 🐶 🌿 🦉 📸 ⚽ 🤼‍♂️ 🎥 
 ___
 
 ###### About Form3 🦄<br>
-**Domain:** Payments<br>
+
+Cloud-native payments pioneers who are building the technology that will power the future of payments. 
+
 **Challenges:** Scalability, Availability, Performance, Security<br>
 **[Stack](https://stackshare.io/form3/main):** Go, K8s, [Multi-cloud](https://www.youtube.com/watch?v=fGbWgo6p0XQ)<br>
 **Content:** [Engineering site](https://www.form3.tech/engineering), [Podcast](https://techpodcast.form3.tech/), [CTO interview](https://medium.com/tech-captains/cto-interview-steve-cook-revolutionising-the-banking-infrastructure-4f92830e2441)<br>
