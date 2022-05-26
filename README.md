@@ -10,8 +10,10 @@ I joined [Form3](https://www.form3.tech/payment-platform) in early 2019 as emplo
 **Interests:** 👨‍👩‍👧 🐶 🌿 ⚽ 🤼‍♂️ 🎥 
 
 ###### About Form3 🦄<br>
-**Tech stack:** Go, K8s, [Multi-Cloud](https://www.youtube.com/watch?v=fGbWgo6p0XQ)<br>
-**Tech content:** [Engineering site](https://www.form3.tech/engineering), [podcast series](https://techpodcast.form3.tech/), [CTO interview](https://medium.com/tech-captains/cto-interview-steve-cook-revolutionising-the-banking-infrastructure-4f92830e2441)<br>
+**Domain:** Payments<br>
+**Challenges:** Scalability, availability, performance, security
+**[Stack](https://stackshare.io/form3/main):** Go, K8s, [Multi-Cloud](https://www.youtube.com/watch?v=fGbWgo6p0XQ)<br>
+**Content:** [Engineering site](https://www.form3.tech/engineering), [podcast series](https://techpodcast.form3.tech/), [CTO interview](https://medium.com/tech-captains/cto-interview-steve-cook-revolutionising-the-banking-infrastructure-4f92830e2441)<br>
 **Hiring for:** [Senior Engineers](https://www.form3.tech/careers/vacancies?jobCategory=Engineering)
 
 ###### Say hello 💬
