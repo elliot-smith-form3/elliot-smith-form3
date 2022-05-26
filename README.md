@@ -1,6 +1,6 @@
 ### Hi there - I'm Elliot 👋
 
-TLDR; Talent Lead - Engineering at Form3, 84% introvert
+>TLDR; Talent Lead - Engineering at Form3, 84% introvert
 
 I joined [Form3](https://www.form3.tech/payment-platform) in early 2019 as employee number 61, and the third member of our Talent Team. I'm now helping lead Form3's engineering recruitment as we scale internationally. If you have any questions about Form3 or our amazing, remote-first Engineering Team, feel free to get in touch on [LinkedIn](https://www.linkedin.com/in/elliotsmithform3/) or email: elliot.smith@form3.tech
 
@@ -12,9 +12,9 @@ Tech content: [Engineering site](https://www.form3.tech/engineering), [podcast s
 
 About me 👨
 
-Pronouns: He/Him 
-Personality: [ISFJ-A](https://www.16personalities.com/isfj-personality)
-Interests: 🌿 ⚽ 🤼‍♂️ 🎥 👨‍👩‍👧
+Pronouns: He/Him   
+Personality: [ISFJ-A](https://www.16personalities.com/isfj-personality) 
+Interests: 👨‍👩‍👧 🐶 🌿 ⚽ 🤼‍♂️ 🎥 
 
 <!--
 **elliot-smith-form3/elliot-smith-form3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
