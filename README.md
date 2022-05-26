@@ -2,7 +2,7 @@
 
 >TLDR; Talent Lead - Engineering at Form3, 84% introvert
 
-I joined [Form3](https://www.form3.tech/payment-platform) in early 2019 as employee number 61, and as the third member of our Talent Team. I'm now helping lead Form3's engineering recruitment as we scale internationally. 
+I joined [Form3](https://www.form3.tech/payment-platform) in 2019 as employee number 61, and as the third member of our Talent Team. I'm now helping to lead Form3's engineering recruitment as we scale internationally. 
 ___
 
 ###### About Me 👨<br>
