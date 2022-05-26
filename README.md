@@ -16,8 +16,8 @@ ___
 
 Cloud-native payments pioneers who are building the technology that will power the future of payments. 
 
-**Challenges:** Scalability, Availability, Performance, Security<br>
 **[Stack](https://stackshare.io/form3/main):** Go, K8s, [Multi-cloud](https://www.youtube.com/watch?v=fGbWgo6p0XQ)<br>
+**Challenges:** Scalability, Availability, Performance, Security<br>
 **Content:** [Engineering site](https://www.form3.tech/engineering), [Podcast](https://techpodcast.form3.tech/), [CTO interview](https://medium.com/tech-captains/cto-interview-steve-cook-revolutionising-the-banking-infrastructure-4f92830e2441)<br>
 **Hiring:** [Senior Engineers](https://www.form3.tech/careers/vacancies?jobCategory=Engineering)
 ___
