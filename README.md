@@ -14,7 +14,7 @@ ___
 
 ###### About Form3 🦄<br>
 
-Cloud-native payments pioneers who are building the technology that will power the future of payments. 
+Cloud-native payments pioneers that are building the technology that will power the future of payments. 
 
 **[Stack](https://stackshare.io/form3/main):** Go, K8s, NATS, CockroachDB, [Multi-cloud](https://www.youtube.com/watch?v=fGbWgo6p0XQ)<br>
 **Challenges:** Scalability, Availability, Performance, Security<br>
