@@ -5,7 +5,7 @@
 I joined [Form3](https://www.form3.tech/payment-platform) in 2019 as employee number 61, and as the third member of our Talent Team. I'm now helping to lead Form3's engineering recruitment as we scale internationally. 
 ___
 
-###### About Me 👨<br>
+###### About me 👨<br>
 **Pronouns:** He/Him<br>
 **Personality:** [ISFJ-A](https://www.16personalities.com/isfj-personality)<br>
 **Interests:** 👨‍👩‍👧 🐶 🌿 🦉 📸 ⚽ 🤼‍♂️ 🎥 
@@ -14,12 +14,12 @@ ___
 ###### About Form3 🦄<br>
 **Domain:** Payments<br>
 **Challenges:** Scalability, Availability, Performance, Security<br>
-**[Stack](https://stackshare.io/form3/main):** Go, K8s, [Multi-Cloud](https://www.youtube.com/watch?v=fGbWgo6p0XQ)<br>
-**Content:** [Engineering Site](https://www.form3.tech/engineering), [Podcast](https://techpodcast.form3.tech/), [CTO Interview](https://medium.com/tech-captains/cto-interview-steve-cook-revolutionising-the-banking-infrastructure-4f92830e2441)<br>
-**Hiring for:** [Senior Engineers](https://www.form3.tech/careers/vacancies?jobCategory=Engineering)
+**[Stack](https://stackshare.io/form3/main):** Go, K8s, [Multi-cloud](https://www.youtube.com/watch?v=fGbWgo6p0XQ)<br>
+**Content:** [Engineering site](https://www.form3.tech/engineering), [Podcast](https://techpodcast.form3.tech/), [CTO interview](https://medium.com/tech-captains/cto-interview-steve-cook-revolutionising-the-banking-infrastructure-4f92830e2441)<br>
+**Hiring:** [Senior Engineers](https://www.form3.tech/careers/vacancies?jobCategory=Engineering)
 ___
 
-###### Say Hello 💬
+###### Say hello 💬
 If you want to chat about Form3 and our amazing, ***remote-first*** Engineering Team, feel free to get in touch on [LinkedIn](https://www.linkedin.com/in/elliotsmithform3/) or elliot.smith@form3.tech ✌️
 
 <!--
