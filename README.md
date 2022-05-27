@@ -25,6 +25,7 @@ ___
 ###### Say hello 💬
 If you want to chat about Form3 and our amazing, ***remote-first*** Engineering Team, feel free to get in touch on [LinkedIn](https://www.linkedin.com/in/elliotsmithform3/) or elliot.smith@form3.tech ✌️
 
+
 ![](https://raw.githubusercontent.com/adelina-simion-form3/adelina-simion-form3/main/StackGophers.png)
 
 <!--
