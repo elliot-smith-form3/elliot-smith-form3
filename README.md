@@ -16,7 +16,9 @@ ___
 
 Cloud-native payments pioneers. We are building the technology that will power the future of payments ☁️
 
-**[Stack](https://stackshare.io/form3/main):** Go, K8s, NATS, CockroachDB, [Multi-cloud](https://www.youtube.com/watch?v=fGbWgo6p0XQ) ⚙️<br>
+Here's some more about Form3 from a technical perspective
+
+**[Stack](https://stackshare.io/form3/main):** Go, K8s, NATS, [CockroachDB](https://www.cockroachlabs.com/blog/customer-form3-payment-infrastructure/), [Multi-cloud](https://www.youtube.com/watch?v=fGbWgo6p0XQ) ⚙️<br>
 **Challenges:** Scalability, Availability, Performance, Security 🎯<br>
 **Content:** [Engineering site](https://www.form3.tech/engineering), [Podcast series](https://techpodcast.form3.tech/), [CTO interview](https://medium.com/tech-captains/cto-interview-steve-cook-revolutionising-the-banking-infrastructure-4f92830e2441) 📚<br>
 **Hiring:** [Senior Engineers](https://www.form3.tech/careers/vacancies?jobCategory=Engineering) 👷
