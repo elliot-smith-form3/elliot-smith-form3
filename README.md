@@ -5,7 +5,7 @@ ___
 
 ###### About me 👨<br>
 
-Having joined [Form3](https://www.form3.tech/payment-platform) in 2019 as employee number 61, I now co-lead our engineering recruitment efforts as we look to scale the team internationally across Europe, Canada and Argentina 🌍
+Having joined [Form3](https://www.form3.tech/) in 2019 as employee number 61, I now co-lead our engineering recruitment function as we look to scale the team internationally across Europe, Canada and Argentina 🌍
 
 **Pronouns:** He/Him<br>
 **Personality:** [ISFJ-A](https://www.16personalities.com/isfj-personality)<br>
