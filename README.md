@@ -1,4 +1,4 @@
-## Hi there - I'm Elliot 👋
+## Hi - I'm Elliot 👋
 
 >TLDR; Talent Lead - Engineering at Form3, 84% introvert
 ___
